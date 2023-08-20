@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/4f5c8d5e46b24da38a7e39a88d7dbbb3/artifacts
+end_time: 1692525113121
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 4f5c8d5e46b24da38a7e39a88d7dbbb3
+run_name: dropped-column-Gr Liv Area
+run_uuid: 4f5c8d5e46b24da38a7e39a88d7dbbb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692525113046
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/1739c4ab77664bc4aa09ccabe1d091bf/artifacts
+end_time: 1692526962135
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 1739c4ab77664bc4aa09ccabe1d091bf
+run_name: thoughtful-squid-330
+run_uuid: 1739c4ab77664bc4aa09ccabe1d091bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526962032
+status: 3
+tags: []
+user_id: User

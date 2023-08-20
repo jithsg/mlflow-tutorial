@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/1c99b32198304b578d8f91b9b865659b/artifacts
+end_time: 1692525113028
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 1c99b32198304b578d8f91b9b865659b
+run_name: dropped-column-Lot Area
+run_uuid: 1c99b32198304b578d8f91b9b865659b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692525112922
+status: 3
+tags: []
+user_id: User

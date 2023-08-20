@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/54e08ddb7c3b4e929be956aa8b678e1f/artifacts
+end_time: 1692526841055
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 54e08ddb7c3b4e929be956aa8b678e1f
+run_name: clean-goat-363
+run_uuid: 54e08ddb7c3b4e929be956aa8b678e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526840869
+status: 3
+tags: []
+user_id: User

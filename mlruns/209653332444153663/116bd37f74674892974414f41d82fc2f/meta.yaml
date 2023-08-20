@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/116bd37f74674892974414f41d82fc2f/artifacts
+end_time: 1692526320033
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 116bd37f74674892974414f41d82fc2f
+run_name: puzzled-bass-31
+run_uuid: 116bd37f74674892974414f41d82fc2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526319922
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/6b2a39d274b04ef882de2dd346547d14/artifacts
+end_time: 1692526841354
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 6b2a39d274b04ef882de2dd346547d14
+run_name: dropped-column-Bldg Type_Duplex
+run_uuid: 6b2a39d274b04ef882de2dd346547d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526841302
+status: 3
+tags: []
+user_id: User

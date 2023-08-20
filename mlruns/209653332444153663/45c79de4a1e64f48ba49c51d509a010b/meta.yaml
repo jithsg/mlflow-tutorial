@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/45c79de4a1e64f48ba49c51d509a010b/artifacts
+end_time: 1692526269707
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 45c79de4a1e64f48ba49c51d509a010b
+run_name: enchanting-doe-512
+run_uuid: 45c79de4a1e64f48ba49c51d509a010b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526269643
+status: 3
+tags: []
+user_id: User

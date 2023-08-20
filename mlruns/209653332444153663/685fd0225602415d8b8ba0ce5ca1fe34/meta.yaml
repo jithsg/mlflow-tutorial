@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/685fd0225602415d8b8ba0ce5ca1fe34/artifacts
+end_time: 1692526815521
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: 685fd0225602415d8b8ba0ce5ca1fe34
+run_name: debonair-hen-450
+run_uuid: 685fd0225602415d8b8ba0ce5ca1fe34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526815315
+status: 3
+tags: []
+user_id: User

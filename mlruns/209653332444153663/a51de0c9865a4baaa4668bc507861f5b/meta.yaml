@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/a51de0c9865a4baaa4668bc507861f5b/artifacts
+end_time: 1692526152301
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: a51de0c9865a4baaa4668bc507861f5b
+run_name: masked-sheep-346
+run_uuid: a51de0c9865a4baaa4668bc507861f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526152215
+status: 3
+tags: []
+user_id: User

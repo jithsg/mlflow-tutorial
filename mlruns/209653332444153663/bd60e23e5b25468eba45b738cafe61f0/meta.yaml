@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/bd60e23e5b25468eba45b738cafe61f0/artifacts
+end_time: 1692527209381
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: bd60e23e5b25468eba45b738cafe61f0
+run_name: secretive-eel-194
+run_uuid: bd60e23e5b25468eba45b738cafe61f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692527209344
+status: 3
+tags: []
+user_id: User

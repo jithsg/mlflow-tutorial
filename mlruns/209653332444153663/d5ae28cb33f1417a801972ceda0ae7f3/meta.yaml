@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow/mlruns/209653332444153663/d5ae28cb33f1417a801972ceda0ae7f3/artifacts
+end_time: 1692526815660
+entry_point_name: ''
+experiment_id: '209653332444153663'
+lifecycle_stage: active
+run_id: d5ae28cb33f1417a801972ceda0ae7f3
+run_name: dropped-column-Garage Area
+run_uuid: d5ae28cb33f1417a801972ceda0ae7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692526815586
+status: 3
+tags: []
+user_id: User
